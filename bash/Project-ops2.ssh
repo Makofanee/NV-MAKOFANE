@@ -42,3 +42,4 @@ else
         echo"nginx service not running"
         echo"exiting script"
         exit 1
+exit 1
